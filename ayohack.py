@@ -1,6 +1,6 @@
 #decompiled by Tn.FarelZeus
 import os, sys
-print '\x1b[1;32mMasukan ID: Farel dan Password: Zeus untuk Login dan jangan lupa login facebook di Browser Loe dulu sebelum login agar gak CekPoint'
+print '\x1b[1;32mMasukan ID: Borot dan Password: indoxploit untuk Login dan jangan lupa login facebook di Browser Loe dulu sebelum login agar gak CekPoint'
 print '\x1b[1;32mSilahkan Login '
 import os, sys
 
@@ -16,7 +16,7 @@ def restart():
 user = raw_input('ID: ')
 import getpass
 sandi = raw_input('Password: ')
-if sandi == 'Zeus' and user == 'Farel':
+if sandi == 'Borot' and user == 'indoxploit':
     print 'Loe Telah Login'
     sys.exit
 else:
